@@ -1,0 +1,23 @@
+{
+  "name": "starterkit-mustache-brandai",
+  "version": "1.0.0",
+  "description": "Starter kit for Brand.ai integration with pattern lab.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandai/starterkit-mustache-brandai.git"
+  },
+  "keywords": [
+    "Pattern Lab",
+
+    "Starterkit",
+    "Brand.ai"
+  ],
+  "author": "Brand.ai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandai/starterkit-mustache-brandai/issues"
+  },
+  "homepage": "https://github.com/brandai/starterkit-mustache-brandai#readme"
+}
+
+

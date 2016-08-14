@@ -1,0 +1,412 @@
+{
+	"list": {
+		"name": "Style",
+		"organization": "acme-demo-new",
+		"colors": [
+			{
+				"name": "Brand Colors",
+				"colors": [
+					{
+						"name": "Brand Color 1",
+						"value": "#007ac1"
+					},
+					{
+						"name": "Brand Color 2",
+						"value": "#51dacf"
+					},
+					{
+						"name": "Brand Color 3",
+						"value": "#9ef5cf"
+					},
+					{
+						"name": "Brand Color 4",
+						"value": "#e8ffc1"
+					}
+				]
+			},
+			{
+				"name": "Text Colors",
+				"colors": [
+					{
+						"name": "AC Grey 1",
+						"value": "#222222"
+					},
+					{
+						"name": "AC Grey 2",
+						"value": "#555555"
+					},
+					{
+						"name": "AC Grey 3",
+						"value": "#999999"
+					},
+					{
+						"name": "AC Grey 4",
+						"value": "#b1b1b1"
+					}
+				]
+			}
+		],
+		"logos": [
+			{
+				"displayName": "Full logo - light backgroun",
+				"url": "https://user-images.brand.ai/acme-new/4y-HcfB0g.svg",
+				"backgroundColor": "#ffffff"
+			},
+			{
+				"displayName": "Full logo - dark backround",
+				"url": "https://user-images.brand.ai/acme-new/4JNZ5MrAe.svg",
+				"backgroundColor": "#007ac1"
+			},
+			{
+				"displayName": "Full logo - monochromatic",
+				"url": "https://user-images.brand.ai/acme-new/Ey5ZcMBAl.svg",
+				"backgroundColor": "#ffffff"
+			},
+			{
+				"displayName": "Icon - light backgrond",
+				"url": "https://user-images.brand.ai/acme-new/4y6H5zrRg.svg",
+				"backgroundColor": "#ffffff"
+			},
+			{
+				"displayName": "Icon - dark background",
+				"url": "https://user-images.brand.ai/acme-new/Ey9S5fS0l.svg",
+				"backgroundColor": "#51dacf"
+			}
+		],
+		"fonts": [
+			{
+				"name": "Primary family",
+				"family": "Roboto Slab",
+				"variants": [
+					{
+						"fontStyle": "normal",
+						"fontWeight": 100
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": 300
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": 400
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": "bold"
+					}
+				]
+			}
+		],
+		"typeStyles": [
+			{
+				"fontSize": "24px",
+				"lineHeight": "normal",
+				"color": "#007ac1",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Roboto Slab",
+				"name": "Main Header",
+				"backgroundColor": "#ffffff"
+			},
+			{
+				"fontSize": "24px",
+				"lineHeight": "normal",
+				"color": "#007ac1",
+				"fontStyle": "normal",
+				"fontWeight": 300,
+				"fontFamily": "Roboto Slab",
+				"name": "Sub Header",
+				"backgroundColor": "#ffffff"
+			},
+			{
+				"fontSize": "20px",
+				"lineHeight": "normal",
+				"color": "#007ac1",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Roboto Slab",
+				"name": "Small Title",
+				"backgroundColor": "#ffffff"
+			},
+			{
+				"fontSize": "15px",
+				"lineHeight": "normal",
+				"color": "#000000",
+				"fontStyle": "normal",
+				"fontWeight": 400,
+				"fontFamily": "Roboto Slab",
+				"name": "Paragraph",
+				"backgroundColor": "#ffffff"
+			}
+		],
+		"iconSections": [
+			{
+				"name": "System Icons",
+				"icons": [
+					{
+						"url": "https://user-images.brand.ai/acme-new/N1gk5I8Ax.svg",
+						"fileName": "heart.svg",
+						"displayName": "rocket.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/acme-new/NJLkqIU0x.svg",
+						"fileName": "star.svg",
+						"displayName": "star-empty.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/acme-new/N1qkqU8Cx.svg",
+						"fileName": "diamond.svg",
+						"displayName": "sun.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/acme-new/4Jilc8ICx.svg",
+						"fileName": "globe.svg",
+						"displayName": "globe.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/acme-new/VyZbqLU0l.svg",
+						"fileName": "note.svg",
+						"displayName": "note.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/acme-new/41lG5UIRx.svg",
+						"fileName": "paper plane.svg",
+						"displayName": "paper plane.svg",
+						"extension": "svg"
+					}
+				]
+			}
+		],
+		"imageSections": [
+			{
+				"name": "Brand Images",
+				"images": [
+					{
+						"url": "https://user-images.brand.ai/acme-new/HJoRGgl.jpeg",
+						"fileName": "1.jpg",
+						"displayName": "Seattle",
+						"extension": "jpeg"
+					},
+					{
+						"url": "https://user-images.brand.ai/acme-new/rkgi0fxe.jpeg",
+						"fileName": "2.jpg",
+						"displayName": "Wall",
+						"extension": "jpeg"
+					},
+					{
+						"url": "https://user-images.brand.ai/acme-new/rybiCfel.jpeg",
+						"fileName": "3.jpg",
+						"displayName": "Car",
+						"extension": "jpeg"
+					},
+					{
+						"url": "https://user-images.brand.ai/acme-new/rkdgVrl.jpeg",
+						"fileName": "4.jpg",
+						"displayName": "Field",
+						"extension": "jpeg"
+					}
+				]
+			}
+		],
+		"componentImageSections": [],
+		"readOnly": true
+	},
+	"lookup": {
+		"colors": {
+			"brandColor1": {
+				"name": "Brand Color 1",
+				"value": "#007ac1"
+			},
+			"brandColor2": {
+				"name": "Brand Color 2",
+				"value": "#51dacf"
+			},
+			"brandColor3": {
+				"name": "Brand Color 3",
+				"value": "#9ef5cf"
+			},
+			"brandColor4": {
+				"name": "Brand Color 4",
+				"value": "#e8ffc1"
+			},
+			"acGrey1": {
+				"name": "AC Grey 1",
+				"value": "#222222"
+			},
+			"acGrey2": {
+				"name": "AC Grey 2",
+				"value": "#555555"
+			},
+			"acGrey3": {
+				"name": "AC Grey 3",
+				"value": "#999999"
+			},
+			"acGrey4": {
+				"name": "AC Grey 4",
+				"value": "#b1b1b1"
+			}
+		},
+		"fonts": {
+			"primaryFamily": {
+				"name": "Primary family",
+				"family": "Roboto Slab",
+				"variants": [
+					{
+						"fontStyle": "normal",
+						"fontWeight": 100
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": 300
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": 400
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": "bold"
+					}
+				]
+			}
+		},
+		"typeStyles": {
+			"mainHeader": {
+				"fontSize": "24px",
+				"lineHeight": "normal",
+				"color": "#007ac1",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Roboto Slab",
+				"name": "Main Header",
+				"backgroundColor": "#ffffff"
+			},
+			"subHeader": {
+				"fontSize": "24px",
+				"lineHeight": "normal",
+				"color": "#007ac1",
+				"fontStyle": "normal",
+				"fontWeight": 300,
+				"fontFamily": "Roboto Slab",
+				"name": "Sub Header",
+				"backgroundColor": "#ffffff"
+			},
+			"smallTitle": {
+				"fontSize": "20px",
+				"lineHeight": "normal",
+				"color": "#007ac1",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Roboto Slab",
+				"name": "Small Title",
+				"backgroundColor": "#ffffff"
+			},
+			"paragraph": {
+				"fontSize": "15px",
+				"lineHeight": "normal",
+				"color": "#000000",
+				"fontStyle": "normal",
+				"fontWeight": 400,
+				"fontFamily": "Roboto Slab",
+				"name": "Paragraph",
+				"backgroundColor": "#ffffff"
+			}
+		},
+		"logos": {
+			"fullLogoLightBackgroun": {
+				"displayName": "Full logo - light backgroun",
+				"url": "https://user-images.brand.ai/acme-new/4y-HcfB0g.svg",
+				"backgroundColor": "#ffffff"
+			},
+			"fullLogoDarkBackround": {
+				"displayName": "Full logo - dark backround",
+				"url": "https://user-images.brand.ai/acme-new/4JNZ5MrAe.svg",
+				"backgroundColor": "#007ac1"
+			},
+			"fullLogoMonochromatic": {
+				"displayName": "Full logo - monochromatic",
+				"url": "https://user-images.brand.ai/acme-new/Ey5ZcMBAl.svg",
+				"backgroundColor": "#ffffff"
+			},
+			"iconLightBackgrond": {
+				"displayName": "Icon - light backgrond",
+				"url": "https://user-images.brand.ai/acme-new/4y6H5zrRg.svg",
+				"backgroundColor": "#ffffff"
+			},
+			"iconDarkBackground": {
+				"displayName": "Icon - dark background",
+				"url": "https://user-images.brand.ai/acme-new/Ey9S5fS0l.svg",
+				"backgroundColor": "#51dacf"
+			}
+		},
+		"images": {
+			"seattle": {
+				"url": "https://user-images.brand.ai/acme-new/HJoRGgl.jpeg",
+				"fileName": "1.jpg",
+				"displayName": "Seattle",
+				"extension": "jpeg"
+			},
+			"wall": {
+				"url": "https://user-images.brand.ai/acme-new/rkgi0fxe.jpeg",
+				"fileName": "2.jpg",
+				"displayName": "Wall",
+				"extension": "jpeg"
+			},
+			"car": {
+				"url": "https://user-images.brand.ai/acme-new/rybiCfel.jpeg",
+				"fileName": "3.jpg",
+				"displayName": "Car",
+				"extension": "jpeg"
+			},
+			"field": {
+				"url": "https://user-images.brand.ai/acme-new/rkdgVrl.jpeg",
+				"fileName": "4.jpg",
+				"displayName": "Field",
+				"extension": "jpeg"
+			}
+		},
+		"icons": {
+			"rocketSvg": {
+				"url": "https://user-images.brand.ai/acme-new/N1gk5I8Ax.svg",
+				"fileName": "heart.svg",
+				"displayName": "rocket.svg",
+				"extension": "svg"
+			},
+			"starEmptySvg": {
+				"url": "https://user-images.brand.ai/acme-new/NJLkqIU0x.svg",
+				"fileName": "star.svg",
+				"displayName": "star-empty.svg",
+				"extension": "svg"
+			},
+			"sunSvg": {
+				"url": "https://user-images.brand.ai/acme-new/N1qkqU8Cx.svg",
+				"fileName": "diamond.svg",
+				"displayName": "sun.svg",
+				"extension": "svg"
+			},
+			"globeSvg": {
+				"url": "https://user-images.brand.ai/acme-new/4Jilc8ICx.svg",
+				"fileName": "globe.svg",
+				"displayName": "globe.svg",
+				"extension": "svg"
+			},
+			"noteSvg": {
+				"url": "https://user-images.brand.ai/acme-new/VyZbqLU0l.svg",
+				"fileName": "note.svg",
+				"displayName": "note.svg",
+				"extension": "svg"
+			},
+			"paperPlaneSvg": {
+				"url": "https://user-images.brand.ai/acme-new/41lG5UIRx.svg",
+				"fileName": "paper plane.svg",
+				"displayName": "paper plane.svg",
+				"extension": "svg"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+    {{#list.colors}}
+        <div style="margin-top: 20px; margin-bottom: 5px; font-size: 20px;">{{name}}</div>
+        <ul class="sg-colors" id="colors">
+            {{#colors}}
+                <li>
+                    <span class="sg-swatch" style="background: {{value}};"></span>
+                    <span class="sg-label" style="padding-left:3px">{{{name}}}</span>
+                </li>
+            {{/colors}}
+        </ul>
+    {{/list.colors}}

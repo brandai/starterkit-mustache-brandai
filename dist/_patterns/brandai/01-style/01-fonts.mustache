@@ -1,0 +1,23 @@
+    {{#list.fonts}}
+        <div style="margin-top: 15px; font-size: 25px">
+            {{#name}}
+                {{name}}
+            {{/name}}
+            {{^name}}
+                font name placeholder
+            {{/name}}
+        </div>
+        <ul>
+        {{#variants}}
+        <li>
+            <div
+                style="font-size: 22px; padding: 5px 0;
+                        font-family: {{family}};{{fallback}};font-weight: {{fontWeight}}; font-style: {{fontStyle}}">
+                {{family}} <span style="font-size: 15px">font-style:{{fontStyle}}, font-weight:{{fontWeight}}</span>
+                <!-- {{#fallback}};{{fallback}}{{/fallback}} -->
+            </div>
+        </li>
+        {{/variants}}
+        </ul>
+
+    {{/list.fonts}}

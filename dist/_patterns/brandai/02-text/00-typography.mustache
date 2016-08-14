@@ -1,0 +1,20 @@
+<div id="typeStyles">
+    {{#list.typeStyles}}
+        <div style="padding: 10px 40px;
+                    font-size: {{fontSize}}; font-family: {{fontFamily}};
+                    font-weight: {{fontWeight}}; font-style: {{fontStyle}};
+                    color: {{color}}; background-color: {{backgroundColor}};
+                    line-height: {{lineHeight}}; text-align: {{textAlign}}
+                    text-decoration: {{textDecoration}}; letter-spacing: {{letterSpacing}}
+                "
+        >
+            {{#name}}
+                {{name}}
+            {{/name}}
+            {{^name}}
+                typography style placeholder
+            {{/name}}
+        </div>
+    {{/list.typeStyles}}
+</div>
+

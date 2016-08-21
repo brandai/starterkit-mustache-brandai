@@ -39,9 +39,9 @@ You can learn more about starter kit installations in the Pattern Lab wiki:  [ht
 ## Synchronizing data
 This starter kit contains style-data.json representing [example project](https://brand.ai/acme-demo-new) from Brand.ai.
 
-To have Pattern Lab use data from your style guide, replace the default style-data.json with the style-data.json that's available for your style guide. You can find the latter by visiting the data export app on Brand.ai. [for example](https://brand.ai/acme-demo-new/style/applications/data-export/json)
+To have Pattern Lab use data from your design library, replace the default style-data.json with the style-data.json that's available for your design library. You can find the latter by visiting the data export app on Brand.ai. [for example](https://brand.ai/acme-demo-new/style/applications/data-export/json)
 
-You can download the style-data.json file and copy it to your source folder. Alternatively, you can automate this process by running a brandai-cli command. This makes it easy to update Pattern Lab as your style guide changes.
+You can download the style-data.json file and copy it to your source folder. Alternatively, you can automate this process by running a brandai-cli command. This makes it easy to update Pattern Lab as your design library changes.
 
 Here's how you'd do it. 
 
@@ -51,7 +51,7 @@ npm install brandai-cli --global
 ```
 Then execute the below command that will download the JSON style data from Brand.ai and copy it to the destination folder.
 ```
-brandai json --dest source/_data --organization <organization> -- styleguide --<styleguide>
+brandai json --dest source/_data --organization <organization> --library --<design library>
 
 ```
 

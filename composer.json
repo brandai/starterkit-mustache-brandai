@@ -1,0 +1,31 @@
+{
+  "name":             "brandai/starterkit-mustache-brandai",
+  "description":      "Starterkit for Brand.ai integration with Pattern Lab.",
+  "keywords":         ["brand.ai", "pattern lab", "starterkit", "design library"],
+  "homepage":         "https://brand.ai",
+  "license":          "MIT",
+  "type":             "patternlab-starterkit",
+  "authors": [
+    {
+      "name":         "Brand.ai"
+    }
+  ],
+  "support": {
+    "issues":         "https://github.com/brandai/starterkit-mustache-brandai/issues",
+    "wiki":           "https://github.com/brandai/starterkit-mustache-brandai/",
+    "source":         "https://github.com/brandai/starterkit-mustache-brandai/"
+  },
+  "require": {
+    "pattern-lab/core": "^2.0.0",
+    "pattern-lab/patternengine-mustache": "^2.0.0"
+  },
+  "extra": {
+    "patternlab": {
+      "dist": {
+        "sourceDir": [
+          { "*": "*" }
+        ]
+      }
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name":             "brandai/starterkit-mustache-brandai",
-  "description":      "Starterkit for Brand.ai integration with Pattern Lab.",
+  "description":      "StarterKit for Brand.ai integration with Pattern Lab",
   "keywords":         ["brand.ai", "pattern lab", "starterkit", "design library"],
   "homepage":         "https://brand.ai",
   "license":          "MIT",
